@@ -1,0 +1,14 @@
+<?php  
+
+	$amount = $_REQUEST["amount"];
+	$con = mysql_connect("localhost", "webapp", "Passw0rd.S3gur0") or die ("Sin Conexion");
+	mysql_select_db(android_api);
+	$sql = "SELECT ID_CATEGORIA, CATEGORIA FROM CATEGORIA ORDER BY CATEGORIA";
+	$datos = array();
+	$rs = mysql_query($sql, $con);
+	while ($row = mysql_fetch_object($rs)){
+		$datos[] = $row;
+	}
+	echo json_encode($datos);
+
+?>

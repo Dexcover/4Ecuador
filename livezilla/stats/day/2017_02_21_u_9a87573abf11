@@ -1,0 +1,674 @@
+<br><br>
+<table cellpadding="0" cellspacing="0" align="center" width="900">
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="header_line"><!--lang_stats_visitors--></td>
+					<td class="header_line" align="right"><script>document.write(new Date(2017,1,21,0, 00, 00, 0).toLocaleDateString());</script></td>
+				</tr>
+				<tr>
+					<td class="header_nav_line">&nbsp;&nbsp;10 <!--lang_stats_visitors--> (<em>unique</em>)</td>
+					<td class="header_nav_line" align="right">Status:&nbsp;&nbsp;<!--lang_stats_status_closed-->&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="40" align="center"><!--lang_stats_pages--></td>
+					<td class="bt_column_header" width="60" align="center"><!--lang_stats_entrance--></td>
+					<td class="bt_column_header" width="60" align="center"><!--lang_stats_exit--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_country--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_city--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_browser--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_system--></td>
+					<td class="bt_column_header" width="25">&nbsp;</td>
+				</tr>
+				<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_1');"><b>1</b></a></td>
+    <td align="center">03:41:09</td>
+    <td align="center">03:49:15</td>
+    <td NOWRAP>Ecuador</td>
+    <td NOWRAP>Quito</td>
+    <td NOWRAP>Safari 6</td>
+    <td NOWRAP>iPhone / iOS</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('Netlife','1','1','186.101.161.132','host-186-101-161-132.netlife.ec','7d2b8f5e99',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_11">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">03:41:09</td>
+		<td colspan="5">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://m.facebook.com" target="_blank"><b>http://m.facebook.com</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_12">
+		<td align="center">1</td>
+		<td align="center">03:41:09</td>
+		<td align="center">03:41:09</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_2');"><b>3</b></a></td>
+    <td align="center">03:49:19</td>
+    <td align="center">04:31:49</td>
+    <td NOWRAP>Ecuador</td>
+    <td NOWRAP>Quito</td>
+    <td NOWRAP>Chrome 56</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('Easynet','1','1','200.125.245.60','60.245.125.200.static.pichincha.andinanet.net','d72a1301b0',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_21">
+		<td align="center">1</td>
+		<td align="center">03:50:45</td>
+		<td align="center">03:49:19</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_22">
+		<td align="center">2</td>
+		<td align="center">03:49:19</td>
+		<td align="center">03:50:25</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_23">
+		<td align="center">3</td>
+		<td align="center">03:50:25</td>
+		<td align="center">03:53:21</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/#" target="_blank"><b>http://4ecuador.infodesarrollo.ec/#</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_3');"><b>2</b></a></td>
+    <td align="center">04:31:52</td>
+    <td align="center">05:29:16</td>
+    <td NOWRAP>Ecuador</td>
+    <td NOWRAP>Guayaquil</td>
+    <td NOWRAP>Chrome 55</td>
+    <td NOWRAP>Samsung / AndroidOS</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('Ecuadortelecom S.a.','1','1','201.183.176.213','host-201-183-176-213.ecutel.net','1385d02914',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_31">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">04:31:52</td>
+		<td colspan="5">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://m.facebook.com/" target="_blank"><b>http://m.facebook.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_32">
+		<td align="center">1</td>
+		<td align="center">04:31:52</td>
+		<td align="center">04:32:52</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_33">
+		<td align="center">2</td>
+		<td align="center">04:32:50</td>
+		<td align="center">04:32:50</td>
+		<td colspan="5"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_4');"><b>18</b></a></td>
+    <td align="center">05:29:19</td>
+    <td align="center">10:39:33</td>
+    <td NOWRAP>Ecuador</td>
+    <td NOWRAP>Guayaquil</td>
+    <td NOWRAP>FireFox 47</td>
+    <td NOWRAP>Windows 7</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('Telconet S.a','6','1','181.198.51.180','mail.scpm.gob.ec','b861280577',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_41">
+		<td align="center">1</td>
+		<td align="center">05:29:34</td>
+		<td align="center">05:29:19</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_42">
+		<td align="center">2</td>
+		<td align="center">05:29:19</td>
+		<td align="center">05:30:34</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_43">
+		<td align="center">3</td>
+		<td align="center">05:46:11</td>
+		<td align="center">06:29:40</td>
+		<td colspan="5"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_44">
+		<td align="center">4</td>
+		<td align="center">06:02:44</td>
+		<td align="center">06:02:44</td>
+		<td colspan="5"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_45">
+		<td align="center">5</td>
+		<td align="center">06:07:49</td>
+		<td align="center">06:07:49</td>
+		<td colspan="5"><!--lang_stats_browser--> 4:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/preview.php?inline=1&amp;id=6a7ce1a16627ae3304dc34a6b16da8e6&amp;t=1487686066" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/preview.php?inline=1&amp;id=6a7ce1a16627ae3304dc34a6b16da8e6&amp;t=1487686066</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_46">
+		<td align="center">6</td>
+		<td align="center">06:10:18</td>
+		<td align="center">06:28:19</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_47">
+		<td align="center">7</td>
+		<td align="center">06:15:25</td>
+		<td align="center">06:28:25</td>
+		<td colspan="5"><!--lang_stats_browser--> 6:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_48">
+		<td align="center">8</td>
+		<td align="center">06:18:25</td>
+		<td align="center">06:18:25</td>
+		<td colspan="5"><!--lang_stats_browser--> 7:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2&amp;linkid=NmE3Y2UxYTE2NjI3YWUzMzA0ZGMzNGE2YjE2ZGE4ZTY_" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2&amp;linkid=NmE3Y2UxYTE2NjI3YWUzMzA0ZGMzNGE2YjE2ZGE4ZTY_</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_49">
+		<td align="center">9</td>
+		<td align="center">06:33:36</td>
+		<td align="center">06:33:30</td>
+		<td colspan="5"><!--lang_stats_browser--> 8:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_410">
+		<td align="center">10</td>
+		<td align="center">06:33:30</td>
+		<td align="center">07:03:07</td>
+		<td colspan="5"><!--lang_stats_browser--> 8:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_411">
+		<td align="center">11</td>
+		<td align="center">06:37:20</td>
+		<td align="center">06:50:51</td>
+		<td colspan="5"><!--lang_stats_browser--> 9:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_412">
+		<td align="center">12</td>
+		<td align="center">06:42:19</td>
+		<td align="center">07:06:45</td>
+		<td colspan="5"><!--lang_stats_browser--> 10:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_413">
+		<td align="center">13</td>
+		<td align="center">07:09:47</td>
+		<td align="center">07:13:30</td>
+		<td colspan="5"><!--lang_stats_browser--> 11:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_414">
+		<td align="center">14</td>
+		<td align="center">07:13:45</td>
+		<td align="center">07:13:45</td>
+		<td colspan="5"><!--lang_stats_browser--> 12:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2&amp;linkid=NmE3Y2UxYTE2NjI3YWUzMzA0ZGMzNGE2YjE2ZGE4ZTY_" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2&amp;linkid=NmE3Y2UxYTE2NjI3YWUzMzA0ZGMzNGE2YjE2ZGE4ZTY_</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_415">
+		<td align="center">15</td>
+		<td align="center">07:44:50</td>
+		<td align="center">07:44:50</td>
+		<td colspan="5"><!--lang_stats_browser--> 13:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_416">
+		<td align="center">16</td>
+		<td align="center">09:17:06</td>
+		<td align="center">09:17:31</td>
+		<td colspan="5"><!--lang_stats_browser--> 14:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_417">
+		<td align="center">17</td>
+		<td align="center">09:18:55</td>
+		<td align="center">09:19:04</td>
+		<td colspan="5"><!--lang_stats_browser--> 15:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_418">
+		<td align="center">18</td>
+		<td align="center">09:19:04</td>
+		<td align="center">10:36:23</td>
+		<td colspan="5"><!--lang_stats_browser--> 15:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_5');"><b>18</b></a></td>
+    <td align="center">05:31:16</td>
+    <td align="center">18:25:37</td>
+    <td NOWRAP>Ecuador</td>
+    <td NOWRAP>Quito</td>
+    <td NOWRAP>Chrome 44</td>
+    <td NOWRAP>Samsung / AndroidOS</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('Easynet','11','1','200.125.245.223','77.244.125.200.static.pichincha.andinanet.net','ecd4657235',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_51">
+		<td align="center">1</td>
+		<td align="center">05:31:16</td>
+		<td align="center">05:31:44</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_52">
+		<td align="center">2</td>
+		<td align="center">06:48:54</td>
+		<td align="center">06:48:43</td>
+		<td colspan="5"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_53">
+		<td align="center">3</td>
+		<td align="center">06:48:43</td>
+		<td align="center">06:48:54</td>
+		<td colspan="5"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_54">
+		<td align="center">4</td>
+		<td align="center">07:15:49</td>
+		<td align="center">07:15:49</td>
+		<td colspan="5"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_55">
+		<td align="center">5</td>
+		<td align="center">09:41:55</td>
+		<td align="center">09:49:50</td>
+		<td colspan="5"><!--lang_stats_browser--> 4:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_56">
+		<td align="center">6</td>
+		<td align="center">10:00:12</td>
+		<td align="center">10:00:12</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_57">
+		<td align="center">7</td>
+		<td align="center">10:00:33</td>
+		<td align="center">10:00:33</td>
+		<td colspan="5"><!--lang_stats_browser--> 6:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_58">
+		<td align="center">8</td>
+		<td align="center">13:04:40</td>
+		<td align="center">13:05:57</td>
+		<td colspan="5"><!--lang_stats_browser--> 7:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_59">
+		<td align="center">9</td>
+		<td align="center">15:44:22</td>
+		<td align="center">15:44:35</td>
+		<td colspan="5"><!--lang_stats_browser--> 8:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_510">
+		<td align="center">10</td>
+		<td align="center">15:44:35</td>
+		<td align="center">15:44:35</td>
+		<td colspan="5"><!--lang_stats_browser--> 8:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2&amp;linkid=NmE3Y2UxYTE2NjI3YWUzMzA0ZGMzNGE2YjE2ZGE4ZTY_" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2&amp;linkid=NmE3Y2UxYTE2NjI3YWUzMzA0ZGMzNGE2YjE2ZGE4ZTY_</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_511">
+		<td align="center">11</td>
+		<td align="center">17:59:30</td>
+		<td align="center">18:04:20</td>
+		<td colspan="5"><!--lang_stats_browser--> 9:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_512">
+		<td align="center">12</td>
+		<td align="center">18:08:19</td>
+		<td align="center">18:09:22</td>
+		<td colspan="5"><!--lang_stats_browser--> 10:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_513">
+		<td align="center">13</td>
+		<td align="center">18:12:16</td>
+		<td align="center">18:21:35</td>
+		<td colspan="5"><!--lang_stats_browser--> 11:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_514">
+		<td align="center">14</td>
+		<td align="center">21:08:18</td>
+		<td align="center">21:10:08</td>
+		<td colspan="5"><!--lang_stats_browser--> 12:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_515">
+		<td align="center">15</td>
+		<td align="center">21:10:08</td>
+		<td align="center">21:10:34</td>
+		<td colspan="5"><!--lang_stats_browser--> 12:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php" target="_blank"><b>http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_516">
+		<td align="center">16</td>
+		<td align="center">21:10:34</td>
+		<td align="center">21:10:34</td>
+		<td colspan="5"><!--lang_stats_browser--> 12:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_517">
+		<td align="center">17</td>
+		<td align="center">21:09:40</td>
+		<td align="center">21:09:40</td>
+		<td colspan="5"><!--lang_stats_browser--> 13:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_518">
+		<td align="center">18</td>
+		<td align="center">21:12:42</td>
+		<td align="center">21:13:44</td>
+		<td colspan="5"><!--lang_stats_browser--> 14:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_6');"><b>1</b></a></td>
+    <td align="center">07:05:28</td>
+    <td align="center">07:09:31</td>
+    <td NOWRAP>Ecuador</td>
+    <td NOWRAP>Quito</td>
+    <td NOWRAP>FireFox 50</td>
+    <td NOWRAP>AndroidOS</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('Easynet','2','1','181.188.201.108','77.244.125.200.static.pichincha.andinanet.net','15d57c47aa',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_61">
+		<td align="center">1</td>
+		<td align="center">07:05:28</td>
+		<td align="center">07:05:56</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_7');"><b>3</b></a></td>
+    <td align="center">07:19:41</td>
+    <td align="center">09:32:23</td>
+    <td NOWRAP>Ecuador</td>
+    <td NOWRAP>Quito</td>
+    <td NOWRAP>Chrome 56</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('Netlife','5','1','186.4.225.221','host-186-4-225-221.netlife.ec','97ab7aaaa9',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_71">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">07:19:41</td>
+		<td colspan="5">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_72">
+		<td align="center">1</td>
+		<td align="center">07:19:41</td>
+		<td align="center">08:13:08</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/#" target="_blank"><b>http://4ecuador.infodesarrollo.ec/#</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_73">
+		<td align="center">2</td>
+		<td align="center">09:08:20</td>
+		<td align="center">09:20:08</td>
+		<td colspan="5"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/#" target="_blank"><b>http://4ecuador.infodesarrollo.ec/#</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_74">
+		<td align="center">3</td>
+		<td align="center">09:28:52</td>
+		<td align="center">09:29:23</td>
+		<td colspan="5"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/#" target="_blank"><b>http://4ecuador.infodesarrollo.ec/#</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_8');"><b>3</b></a></td>
+    <td align="center">12:58:12</td>
+    <td align="center">13:22:10</td>
+    <td NOWRAP>Ecuador</td>
+    <td NOWRAP>Quito</td>
+    <td NOWRAP>Chrome 56</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('Netlife','1','1','186.4.225.221','host-186-4-225-221.netlife.ec','f3e9a2b392',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_81">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">12:58:12</td>
+		<td colspan="5">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.facebook.com/" target="_blank"><b>https://www.facebook.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_82">
+		<td align="center">1</td>
+		<td align="center">12:58:12</td>
+		<td align="center">13:18:04</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_83">
+		<td align="center">2</td>
+		<td align="center">12:58:19</td>
+		<td align="center">13:10:34</td>
+		<td colspan="5"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_84">
+		<td align="center">3</td>
+		<td align="center">12:59:41</td>
+		<td align="center">12:59:49</td>
+		<td colspan="5"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_9');"><b>32</b></a></td>
+    <td align="center">17:58:34</td>
+    <td align="center">20:45:54</td>
+    <td NOWRAP>Ecuador</td>
+    <td NOWRAP>Quito</td>
+    <td NOWRAP>FireFox 51</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('Easynet','4','1','200.125.245.223','77.244.125.200.static.pichincha.andinanet.net','36d5b9336a',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_91">
+		<td align="center">1</td>
+		<td align="center">17:58:34</td>
+		<td align="center">18:05:00</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_92">
+		<td align="center">2</td>
+		<td align="center">18:32:01</td>
+		<td align="center">19:09:53</td>
+		<td colspan="5"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_93">
+		<td align="center">3</td>
+		<td align="center">18:50:02</td>
+		<td align="center">18:50:02</td>
+		<td colspan="5"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2&amp;linkid=NmE3Y2UxYTE2NjI3YWUzMzA0ZGMzNGE2YjE2ZGE4ZTY_" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2&amp;linkid=NmE3Y2UxYTE2NjI3YWUzMzA0ZGMzNGE2YjE2ZGE4ZTY_</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_94">
+		<td align="center">4</td>
+		<td align="center">19:04:50</td>
+		<td align="center">19:04:50</td>
+		<td colspan="5"><!--lang_stats_browser--> 4:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_95">
+		<td align="center">5</td>
+		<td align="center">19:56:35</td>
+		<td align="center">20:29:51</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_96">
+		<td align="center">6</td>
+		<td align="center">20:29:51</td>
+		<td align="center">19:21:38</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/#" target="_blank"><b>http://4ecuador.infodesarrollo.ec/#</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_97">
+		<td align="center">7</td>
+		<td align="center">19:21:38</td>
+		<td align="center">19:51:03</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php" target="_blank"><b>http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_98">
+		<td align="center">8</td>
+		<td align="center">19:51:03</td>
+		<td align="center">19:53:59</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/#6a7ce1a16627ae3304dc34a6b16da8e6" target="_blank"><b>http://4ecuador.infodesarrollo.ec/#6a7ce1a16627ae3304dc34a6b16da8e6</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_99">
+		<td align="center">9</td>
+		<td align="center">19:53:59</td>
+		<td align="center">19:54:29</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/#6a7ce1a16627ae3304dc34a6b16da8e6" target="_blank"><b>http://4ecuador.infodesarrollo.ec/#6a7ce1a16627ae3304dc34a6b16da8e6</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_910">
+		<td align="center">10</td>
+		<td align="center">19:54:29</td>
+		<td align="center">19:55:57</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/#contact" target="_blank"><b>http://4ecuador.infodesarrollo.ec/#contact</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_911">
+		<td align="center">11</td>
+		<td align="center">19:55:57</td>
+		<td align="center">20:37:42</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/#myModal" target="_blank"><b>http://4ecuador.infodesarrollo.ec/#myModal</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_912">
+		<td align="center">12</td>
+		<td align="center">20:37:42</td>
+		<td align="center">19:53:54</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_913">
+		<td align="center">13</td>
+		<td align="center">19:53:54</td>
+		<td align="center">19:27:52</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_914">
+		<td align="center">14</td>
+		<td align="center">19:27:52</td>
+		<td align="center">19:38:31</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php" target="_blank"><b>http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_915">
+		<td align="center">15</td>
+		<td align="center">19:38:31</td>
+		<td align="center">20:35:47</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php" target="_blank"><b>http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_916">
+		<td align="center">16</td>
+		<td align="center">20:35:47</td>
+		<td align="center">20:36:24</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php" target="_blank"><b>http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_917">
+		<td align="center">17</td>
+		<td align="center">20:36:24</td>
+		<td align="center">19:27:47</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php" target="_blank"><b>http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_918">
+		<td align="center">18</td>
+		<td align="center">19:27:47</td>
+		<td align="center">19:31:07</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_919">
+		<td align="center">19</td>
+		<td align="center">19:31:07</td>
+		<td align="center">19:38:54</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_920">
+		<td align="center">20</td>
+		<td align="center">19:38:54</td>
+		<td align="center">20:36:11</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_921">
+		<td align="center">21</td>
+		<td align="center">20:36:11</td>
+		<td align="center">20:37:58</td>
+		<td colspan="5"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_922">
+		<td align="center">22</td>
+		<td align="center">19:52:47</td>
+		<td align="center">19:52:47</td>
+		<td colspan="5"><!--lang_stats_browser--> 6:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_923">
+		<td align="center">23</td>
+		<td align="center">19:52:55</td>
+		<td align="center">19:54:55</td>
+		<td colspan="5"><!--lang_stats_browser--> 7:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_924">
+		<td align="center">24</td>
+		<td align="center">19:55:32</td>
+		<td align="center">19:55:32</td>
+		<td colspan="5"><!--lang_stats_browser--> 8:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_925">
+		<td align="center">25</td>
+		<td align="center">19:57:36</td>
+		<td align="center">19:57:32</td>
+		<td colspan="5"><!--lang_stats_browser--> 9:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=1" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=1</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_926">
+		<td align="center">26</td>
+		<td align="center">19:57:32</td>
+		<td align="center">19:59:54</td>
+		<td colspan="5"><!--lang_stats_browser--> 9:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_927">
+		<td align="center">27</td>
+		<td align="center">19:58:17</td>
+		<td align="center">20:19:57</td>
+		<td colspan="5"><!--lang_stats_browser--> 10:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_928">
+		<td align="center">28</td>
+		<td align="center">19:59:59</td>
+		<td align="center">20:00:00</td>
+		<td colspan="5"><!--lang_stats_browser--> 11:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2" target="_blank"><b>http://4ecuador.infodesarrollo.ec/livezilla/chat.php?v=2</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_929">
+		<td align="center">29</td>
+		<td align="center">20:41:03</td>
+		<td align="center">20:41:46</td>
+		<td colspan="5"><!--lang_stats_browser--> 12:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_930">
+		<td align="center">30</td>
+		<td align="center">20:41:46</td>
+		<td align="center">20:39:46</td>
+		<td colspan="5"><!--lang_stats_browser--> 12:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_931">
+		<td align="center">31</td>
+		<td align="center">20:39:46</td>
+		<td align="center">20:41:07</td>
+		<td colspan="5"><!--lang_stats_browser--> 12:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php" target="_blank"><b>http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_932">
+		<td align="center">32</td>
+		<td align="center">20:41:07</td>
+		<td align="center">20:41:46</td>
+		<td colspan="5"><!--lang_stats_browser--> 12:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php" target="_blank"><b>http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_10');"><b>2</b></a></td>
+    <td align="center">20:19:17</td>
+    <td align="center">20:28:03</td>
+    <td NOWRAP>Ecuador</td>
+    <td NOWRAP>Quito</td>
+    <td NOWRAP>Edge 14</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('Easynet','1','1','200.125.245.223','223.245.125.200.static.pichincha.andinanet.net','2d84a8a4f6',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_101">
+		<td align="center">1</td>
+		<td align="center">20:19:17</td>
+		<td align="center">20:24:34</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/" target="_blank"><b>http://4ecuador.infodesarrollo.ec/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_102">
+		<td align="center">2</td>
+		<td align="center">20:24:34</td>
+		<td align="center">20:24:35</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php" target="_blank"><b>http://4ecuador.infodesarrollo.ec/cphp/Login/registro.php</b></a></td>
+	</tr>
+
+			</table>
+			<br>
+		</td>
+	</tr>
+</table>
+<script type="text/javascript">
+function showInfoBox(_isp, _visits, _visits_day, _ip, _host, _id, _parent)
+{
+if(ibCurrent != _parent)
+{
+document.getElementById("info_box").innerHTML = "<strong>ID:</strong> " + _id + "<br><strong><!--lang_stats_isp-->:</strong> " + _isp + "<br><strong>IP:</strong> " +_ip + "<br><strong>Host:</strong> " +_host + "<br><strong><!--lang_stats_visits-->:</strong> " + _visits + "<br><strong><!--lang_stats_visits_today-->:</strong> " + _visits_day;
+assignPosition(document.getElementById("info_box"));
+document.getElementById("info_box").style.display = "block";
+ibCurrent = _parent;
+}
+else
+{
+document.getElementById("info_box").style.display = "none";
+ibCurrent = null;
+}
+}
+</script>
